@@ -1,0 +1,23 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Editor files
+.idea
+.vscode
+!.vscode/extensions.json
+yarn.lock
+
+# other files
+.env
+test/testData/data_sample.json
+test/.DS_Store
+*.png
+.mocharc.json
+test/api
+package-lock.json
+package-lock.json
+test/testData/.DS_Store
+.DS_Store
